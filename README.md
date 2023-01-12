@@ -1,6 +1,6 @@
 # README GENERATOR  <img src="https://img.shields.io/badge/license-MIT-yellow?style=plastic">
 
-  ## [Description](#Description)
+  ## <a id="Description">Description</a> 
 
     This is a command-line App that is built with node.js with the help of inquirer package. With this app, you can very quickly create a professional README file for your new project/app.
   
@@ -15,48 +15,48 @@
 
   ## Table of Content
 
-  ### <a id="Description">Description</a> 
-  ### <a id="Installation">Installation</a> 
-  ### <a id="Usage">Usage</a>
-  ### <a id="License">License</a>
-  ### <a id="Contributing">Contributing</a>
-  ### <a id="Tests">Tests</a>
-  ### <a id="Questions">Questions</a>
+  ### [Description](#Description)
+  ### [Installation](#Installation)
+  ### [Usage](#Usage)
+  ### [License](#License)
+  ### [Contributing](#Contributing)
+  ### [Tests](#Tests)
+  ### [Questions](#Questions)
 
 ***
 
-  ## [Installation](#Installation)
+  ## <a id="Installation">Installation</a>
 
   Run this app on your command-line with the command "node index.js"
 
 ***
 
-  ## [Usage](#Usage)
+  ## <a id="Usage">Usage</a>
 
   Use this app to quickly create a professional README file for your new project/app.
 
 ***
 
-  ## [License](#License)
+  ## <a id="License">License</a>
   
   This App is covered under the MIT license.
 
   
 ***
 
-  ## [Contributing](#Contributing)
+  ## <a id="Contributing">Contributing</a>
 
   Please refer to the Question section of this README for my contact information if you'd like to contribute to this project!
 
 ***
 
-  ## [Tests](#Tests)
+  ## <a id="Tests">Tests</a>
 
   Coming Soon...
 
 ***
 
-  ## [Questions](#Questions)
+  ## <a id="Questions">Questions</a>
 
   For more info on my work, please check out my GitHub page at: https://github.com/feddericowayne
   
